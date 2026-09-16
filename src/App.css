@@ -1,0 +1,9 @@
+.App {
+    min-height: 100vh;
+    background-color: hsl(var(--background));
+}
+
+::selection {
+    background-color: #FFB800;
+    color: #0a0a0a;
+}
